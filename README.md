@@ -2,7 +2,11 @@
 
 Levantar proyecto en Dev
 
-1. Clonar repositorio
-2. Instalar dependencias
-3. Generar el `.env` basado en el `.env.template`
-4. Ejecutar el comando `npm run set-envs`
+1. Clone repository
+2. Install dependencies
+3. Generate the `.env` based in the `.env.template`
+4. Excecute the command `npm run set-envs`
+
+# This is the final result of the project
+
+[Maps project](https://lively-tapioca-d1c910.netlify.app/#/fullscreen)
